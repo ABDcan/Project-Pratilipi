@@ -1,4 +1,4 @@
-This project is an e-commerce system consisting of three microservices for User, Product, and Order management, with a GraphQL gateway to interact with all of them. The services communicate using RabbitMQ for event-driven architecture, and MongoDB is used for persistent storage.
+This project consists of three microservices for User, Product, and Order management, with a GraphQL gateway to interact with all of them. The services communicate using RabbitMQ for event-driven architecture, and MongoDB is used for persistent storage.
 
 ## Microservices
 
@@ -29,7 +29,7 @@ This project is an e-commerce system consisting of three microservices for User,
 
    ```bash
    git clone <repository-url>
-   cd e-commerce-microservices
+   cd Project-Pratilipi
    ```
 
 2. **Environment Variables**
